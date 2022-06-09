@@ -4,7 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### GitHub Pages Preview: 
 
-https://lekhasikakollu.github.io/imageslider-reactjs/
+<a href="https://lekhasikakollu.github.io/imageslider-reactjs/" target="_blank"> Preview here </a>
+
 
 ## Available Scripts
 
