@@ -1,0 +1,16 @@
+
+import './App.css';
+import Axios from 'axios';
+import React , {useState} from "react";
+import ImageSlider from './ImageSlider'
+function App() {
+
+  
+  return(
+    <div>
+    <ImageSlider/>
+    </div>
+  )
+};
+
+export default App;
