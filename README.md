@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### GitHub Pages Preview: 
+
+https://lekhasikakollu.github.io/imageslider-reactjs/
+
 ## Available Scripts
 
 In the project directory, you can run:
